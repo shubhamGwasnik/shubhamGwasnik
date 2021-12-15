@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamGwasnik
 - 👀 I’m interested in ML, Deep Learning, Computer Vision, Image-Video Preocessing and Robotics
-- 🌱 Currently I am a Master's student of Artificial Intelligence in Indian Institute of Science, Bangalore 
+- 🌱 Currently I am a Master's student in Artificial Intelligence at Indian Institute of Science, Bangalore 
 
 
 <!---
